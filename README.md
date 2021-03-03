@@ -4,8 +4,8 @@ In the telecom industry, customers are able to choose from multiple service prov
 
 ## Understanding and defining Churn:
 There are various ways to define churn, such as:
-- Revenue-based churn
-- Usage-based churn
+1. Revenue-based churn
+2. Usage-based churn
 For this project, you will use the usage-based definition to define churn.
 
 #### Usage-based churn: 
